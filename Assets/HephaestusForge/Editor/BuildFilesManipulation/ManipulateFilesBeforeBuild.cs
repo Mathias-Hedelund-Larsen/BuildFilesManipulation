@@ -8,10 +8,10 @@ using System.Collections.Generic;
 using UnityEditor.Build.Reporting;
 using UnityEditor.SceneManagement;
 #if PREFABULOUS_ENABLED
-using FoldergeistAssets.PrefabManagement;
+using HephaestusForge.PrefabManagement;
 #endif
 
-namespace FoldergeistAssets
+namespace HephaestusForge
 {
     namespace BuildFilesManupalation
     {
